@@ -12,21 +12,26 @@
 
 
 ### Easy Mode
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/easy.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/easy.png" width="50%" height="50%">
+
 
 
 ### Medium Mode
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/med.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/med.png" width="50%" height="50%">
+
 
 ### Hard Mode
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/hard.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/hard.png" width="50%" height="50%">
+
 
 ### Help Button
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/help.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/help.png" width="50%" height="50%">
+
 
 ### Guessing Correct Letter
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/correct.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/correct.png" width="50%" height="50%">
+
 
 
 ### Guessing Wrong Letter
-![](https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/wrong.png)
+<img src="https://raw.githubusercontent.com/puchoa/Hangman/master/app/src/main/images/wrong.png" width="50%" height="50%">
