@@ -69,6 +69,8 @@ public class Game extends AppCompatActivity {
 
         tvc = (TextView)findViewById(R.id.textViewCount);
 
+
+
         b[0] =(Button)findViewById(R.id.button1);
         b[1] =(Button)findViewById(R.id.button2);
         b[2] =(Button)findViewById(R.id.button3);
